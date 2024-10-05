@@ -20,8 +20,8 @@
     <body>  
       <h1> My name is Jose Melo </h1>
       <p>
-        I am a web development student at Wake Tech Community College and Wake Early College of Information and Biotech. 
-        I am Colombian but grew up in Miami. In my free time, I like to play soccer and listen to latin music.
+        I am a web development student at Wake Tech Community College and Wake Early College of Information and Biotech.<br>
+        I am Colombian but grew up in Miami.<br> In my free time, I like to play soccer and listen to latin music.
       </p>
       </body>
     
