@@ -13,7 +13,7 @@
 
 ## This Repository
 ##### Originially Created for Assignments in Wake Tech Community College Class CTI-110
-##### Now Used for any project created in HTML programming language
+##### Now used for any project created in HTML programming language
 
 ## Websites I Find Useful.
 ##### . . . . 
